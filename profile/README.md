@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is where we host the code related to the PARSEC real-space finite difference DFT code. The main repository is called `parsec`.
+
 <!--
 
 **Here are some ideas to get you started:**
